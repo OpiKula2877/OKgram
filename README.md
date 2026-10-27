@@ -2,7 +2,7 @@
 
 OKgram je prohlížeč fotek a videí pro Windows, Linux a macOS s alby, hvězdičkami, barevnými rámečky a prezentací. Knihovna je buď ve složce `OKgram` na vašem Google Disku, nebo ve složce v počítači.
 
-**Stažení:** `OKgram-Setup.exe` pro Windows najdete na [store.opikula.dev](https://store.opikula.dev). Instalačku si můžete sestavit i sami ze zdrojového kódu, viz [Instalace](#instalace).
+**Stažení:** `OKgram-Setup.exe` pro Windows najdete na stránce [store.opikula.dev/app/okgram](https://store.opikula.dev/app/okgram/). Instalačku si můžete sestavit i sami ze zdrojového kódu, viz [Instalace](#instalace).
 
 | Složka / soubor | Obsah |
 |---|---|
@@ -52,7 +52,7 @@ OKgram je prohlížeč fotek a videí pro Windows, Linux a macOS s alby, hvězdi
 
 ### Možnost 1: stáhnout instalačku (Windows)
 
-Stáhněte `OKgram-Setup.exe` na [store.opikula.dev](https://store.opikula.dev) a spusťte ho. Nic dalšího instalovat nemusíte, vše potřebné je uvnitř instalačky.
+Stáhněte `OKgram-Setup.exe` na stránce [store.opikula.dev/app/okgram](https://store.opikula.dev/app/okgram/) a spusťte ho. Nic dalšího instalovat nemusíte, vše potřebné je uvnitř instalačky.
 
 ### Možnost 2: ze zdrojového kódu
 
